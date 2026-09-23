@@ -1,7 +1,9 @@
 ---
 title: XPO Logistics to present benefits of its technological ...
 url: https://europenews.xpo.com/en/2964/xpo-to-present-its-technological-solutions-at-the-11th-smart-energy-congress/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"XPO Logistics" press release artificial intelligence'
 position: 5
 source: serpapi-google

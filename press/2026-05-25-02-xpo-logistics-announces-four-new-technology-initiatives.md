@@ -1,7 +1,9 @@
 ---
 title: XPO Logistics Announces Four New Technology Initiatives ...
 url: https://investors.xpo.com/news-releases/news-release-details/xpo-logistics-announces-four-new-technology-initiatives-less/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"XPO Logistics" press release artificial intelligence'
 position: 2
 source: serpapi-google
