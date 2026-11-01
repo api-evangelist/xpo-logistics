@@ -1,4 +1,4 @@
-# XPO Logistics (xpo-logistics)
+# XPO Logistics
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,37 +66,82 @@
 
 XPO Logistics, Inc. is a leading provider of less-than-truckload (LTL) transportation in North America. The company offers freight transportation through a proprietary network of service centers and uses technology to drive efficiency for more than 50,000 customers. XPO Logistics historically operated as part of XPO, Inc. (NYSE: XPO), the publicly traded company that spun off GXO Logistics (contract logistics) in 2021 and RXO (brokerage) in 2022, leaving XPO focused on LTL trucking. XPO Logistics does not currently publish a public developer API or developer portal; integrations are arranged through enterprise account managers.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/xpo-logistics/refs/heads/main/apis.yml)
+**Areas:** Company · Fortune 500 · Freight · LTL · Logistics · Transportation · Trucking
 
-**Run:** [Capabilities Using Naftiko](https://github.com/naftiko/fleet?utm_source=api-evangelist&utm_medium=readme&utm_campaign=company-api-evangelist&utm_content=repo)
+## XPO Logistics on APIs.io
 
-## Tags
+Everything profiled for XPO Logistics is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/xpo-logistics/](https://apis.io/providers/xpo-logistics/)** — or go straight to one of the APIs or properties below.
 
- - Company, Fortune 500, Freight, Less-Than-Truckload, Logistics, Transportation, Trucking
+### Published properties
 
-## Timestamps
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-- **Created:** 2026-03-24
-- **Modified:** 2026-05-03
+#### Security (1)
 
-## APIs
+Authentication, trust centre, and vulnerability disclosure.
 
-No public APIs have been documented yet. XPO Logistics does not currently publish a developer portal; integrations are arranged through enterprise account teams.
+- [Xpo Logistics Domain Security](https://apis.io/security/xpo-logistics/xpo-logistics-domain-security/)
 
-## Common Properties
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.xpo.com)
-- [Customers](https://www.xpo.com/customers)
-- [ChangeLog](https://www.xpo.com/news)
+- [Changelog](https://www.xpo.com/news)
 - [Blog](https://www.xpo.com/news)
-- [TermsOfService](https://www.xpo.com/legal/terms-of-use)
-- [PrivacyPolicy](https://www.xpo.com/legal/privacy-policy)
-- [Contact](https://www.xpo.com/contact-us)
-- [LinkedIn](https://www.linkedin.com/company/xpo)
-- [X](https://twitter.com/XPOLogistics)
+- [Terms of service](https://www.xpo.com/legal/terms-of-use)
+- [Privacy policy](https://www.xpo.com/legal/privacy-policy)
+- [GitHub](https://github.com/xpologistics)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 6.3** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 18.4 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/xpo-logistics/](https://apis.io/providers/xpo-logistics/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for XPO Logistics: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/xpo-logistics/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
